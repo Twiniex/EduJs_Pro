@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\WinFormsApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\\uAD50\uC218\\desktop\\backup\\g_20250210\\d.\uCD94\uAC00\uACB0\uACFC\uBB3C\\modbus_23\uBC88\\winformsapp3\\winformsapp3\\modbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\modbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\\uAD50\uC218\\desktop\\backup\\g_20250210\\d.\uCD94\uAC00\uACB0\uACFC\uBB3C\\modbus_23\uBC88\\winformsapp3\\winformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\\uAD50\uC218\\desktop\\backup\\g_20250210\\d.\uCD94\uAC00\uACB0\uACFC\uBB3C\\modbus_23\uBC88\\winformsapp3\\winformsapp3\\plccomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\plccomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\\uAD50\uC218\\desktop\\backup\\g_20250210\\d.\uCD94\uAC00\uACB0\uACFC\uBB3C\\modbus_23\uBC88\\winformsapp3\\winformsapp3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\\uAD50\uC218\\desktop\\backup\\g_20250210\\d.\uCD94\uAC00\uACB0\uACFC\uBB3C\\modbus_23\uBC88\\winformsapp3\\winformsapp3\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\\uAD50\uC218\\desktop\\backup\\g_20250210\\d.\uCD94\uAC00\uACB0\uACFC\uBB3C\\modbus_23\uBC88\\winformsapp3\\winformsapp3\\winformsapp3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\winformsapp3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\\uAD50\uC218\\desktop\\backup\\g_20250210\\d.\uCD94\uAC00\uACB0\uACFC\uBB3C\\modbus_23\uBC88\\winformsapp3\\winformsapp3\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\\uAD50\uC218\\desktop\\backup\\g_20250210\\d.\uCD94\uAC00\uACB0\uACFC\uBB3C\\modbus_23\uBC88\\winformsapp3\\winformsapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\WinFormsApp3\\WinFormsApp3\\Logger.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Logger.cs",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\WinFormsApp3\\WinFormsApp3\\Logger.cs",
+              "RelativeToolTip": "WinFormsApp3\\Logger.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:22:44.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WinFormsApp3",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3.csproj",
+              "RelativeDocumentMoniker": "WinFormsApp3\\WinFormsApp3.csproj",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3.csproj",
+              "RelativeToolTip": "WinFormsApp3\\WinFormsApp3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-05T03:26:15.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\WinFormsApp3\\WinFormsApp3\\Data.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Data.cs",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\WinFormsApp3\\WinFormsApp3\\Data.cs",
+              "RelativeToolTip": "WinFormsApp3\\Data.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAxwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T03:20:50.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlcComm.cs",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\WinFormsApp3\\WinFormsApp3\\PlcComm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\PlcComm.cs",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\WinFormsApp3\\WinFormsApp3\\PlcComm.cs",
+              "RelativeToolTip": "WinFormsApp3\\PlcComm.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T03:00:06.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\WinFormsApp3\\WinFormsApp3\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\WinFormsApp3\\WinFormsApp3\\Form1.Designer.cs",
+              "RelativeToolTip": "WinFormsApp3\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T02:05:07.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\WinFormsApp3\\WinFormsApp3\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Form1.cs",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\WinFormsApp3\\WinFormsApp3\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp3\\Form1.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAEwD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T02:04:23.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Modbus.cs",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\WinFormsApp3\\WinFormsApp3\\Modbus.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Modbus.cs",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\WinFormsApp3\\WinFormsApp3\\Modbus.cs",
+              "RelativeToolTip": "WinFormsApp3\\Modbus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:17:19.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\WinFormsApp3\\WinFormsApp3\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Program.cs",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\WinFormsApp3\\WinFormsApp3\\Program.cs",
+              "RelativeToolTip": "WinFormsApp3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T02:06:24.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\JS_Console_CS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E53F546-472E-4C7C-A142-07DDEA8DD9DD}|PlcConsole\\PlcConsole.csproj|c:\\users\\\uAD50\uC218\\desktop\\backup\\g_20250210\\d.\uCD94\uAC00\uACB0\uACFC\uBB3C\\modbus_23\uBC88\\js_console_cs\\plcconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E53F546-472E-4C7C-A142-07DDEA8DD9DD}|PlcConsole\\PlcConsole.csproj|solutionrelative:plcconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E53F546-472E-4C7C-A142-07DDEA8DD9DD}|PlcConsole\\PlcConsole.csproj|c:\\users\\\uAD50\uC218\\desktop\\backup\\g_20250210\\d.\uCD94\uAC00\uACB0\uACFC\uBB3C\\modbus_23\uBC88\\js_console_cs\\plcconsole\\plccomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E53F546-472E-4C7C-A142-07DDEA8DD9DD}|PlcConsole\\PlcConsole.csproj|solutionrelative:plcconsole\\plccomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E53F546-472E-4C7C-A142-07DDEA8DD9DD}|PlcConsole\\PlcConsole.csproj|c:\\users\\\uAD50\uC218\\desktop\\backup\\g_20250210\\d.\uCD94\uAC00\uACB0\uACFC\uBB3C\\modbus_23\uBC88\\js_console_cs\\plcconsole\\modbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E53F546-472E-4C7C-A142-07DDEA8DD9DD}|PlcConsole\\PlcConsole.csproj|solutionrelative:plcconsole\\modbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E53F546-472E-4C7C-A142-07DDEA8DD9DD}|PlcConsole\\PlcConsole.csproj|c:\\users\\\uAD50\uC218\\desktop\\backup\\g_20250210\\d.\uCD94\uAC00\uACB0\uACFC\uBB3C\\modbus_23\uBC88\\js_console_cs\\plcconsole\\websock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E53F546-472E-4C7C-A142-07DDEA8DD9DD}|PlcConsole\\PlcConsole.csproj|solutionrelative:plcconsole\\websock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E53F546-472E-4C7C-A142-07DDEA8DD9DD}|PlcConsole\\PlcConsole.csproj|c:\\users\\\uAD50\uC218\\desktop\\backup\\g_20250210\\d.\uCD94\uAC00\uACB0\uACFC\uBB3C\\modbus_23\uBC88\\js_console_cs\\plcconsole\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E53F546-472E-4C7C-A142-07DDEA8DD9DD}|PlcConsole\\PlcConsole.csproj|solutionrelative:plcconsole\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E53F546-472E-4C7C-A142-07DDEA8DD9DD}|PlcConsole\\PlcConsole.csproj|c:\\users\\\uAD50\uC218\\desktop\\backup\\g_20250210\\d.\uCD94\uAC00\uACB0\uACFC\uBB3C\\modbus_23\uBC88\\js_console_cs\\plcconsole\\plcconsole.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8E53F546-472E-4C7C-A142-07DDEA8DD9DD}|PlcConsole\\PlcConsole.csproj|solutionrelative:plcconsole\\plcconsole.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebSock.cs",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\JS_Console_CS\\PlcConsole\\WebSock.cs",
+              "RelativeDocumentMoniker": "PlcConsole\\WebSock.cs",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\JS_Console_CS\\PlcConsole\\WebSock.cs",
+              "RelativeToolTip": "PlcConsole\\WebSock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:41:52.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Modbus.cs",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\JS_Console_CS\\PlcConsole\\Modbus.cs",
+              "RelativeDocumentMoniker": "PlcConsole\\Modbus.cs",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\JS_Console_CS\\PlcConsole\\Modbus.cs",
+              "RelativeToolTip": "PlcConsole\\Modbus.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAswF0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:30:08.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlcConsole",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\JS_Console_CS\\PlcConsole\\PlcConsole.csproj",
+              "RelativeDocumentMoniker": "PlcConsole\\PlcConsole.csproj",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\JS_Console_CS\\PlcConsole\\PlcConsole.csproj",
+              "RelativeToolTip": "PlcConsole\\PlcConsole.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T05:26:25.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlcComm.cs",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\JS_Console_CS\\PlcConsole\\PlcComm.cs",
+              "RelativeDocumentMoniker": "PlcConsole\\PlcComm.cs",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\JS_Console_CS\\PlcConsole\\PlcComm.cs",
+              "RelativeToolTip": "PlcConsole\\PlcComm.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAUwD8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:25:52.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\JS_Console_CS\\PlcConsole\\Data.cs",
+              "RelativeDocumentMoniker": "PlcConsole\\Data.cs",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\JS_Console_CS\\PlcConsole\\Data.cs",
+              "RelativeToolTip": "PlcConsole\\Data.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:24:19.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\JS_Console_CS\\PlcConsole\\Program.cs",
+              "RelativeDocumentMoniker": "PlcConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\JS_Console_CS\\PlcConsole\\Program.cs",
+              "RelativeToolTip": "PlcConsole\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:20:19.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

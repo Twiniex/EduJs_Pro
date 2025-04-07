@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OEEmLj8G8rs=",
+  "success": true,
+  "projectFilePath": "C:\\Proj\\JS\\JS_WinForm\\WinFormsApp3\\WinFormsApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\교수\\.nuget\\packages\\nmodbus\\3.0.81\\nmodbus.3.0.81.nupkg.sha512"
+  ],
+  "logs": []
+}

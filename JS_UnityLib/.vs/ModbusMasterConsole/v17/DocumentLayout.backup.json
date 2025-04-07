@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\ModbusMasterConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7569FB3E-FA5C-4625-A0B9-AC3940A9F3FA}|ModbusLib\\ModbusLib.csproj|c:\\users\\\uAD50\uC218\\desktop\\backup\\g_20250210\\d.\uCD94\uAC00\uACB0\uACFC\uBB3C\\modbus_23\uBC88\\modbusmasterconsole\\modbuslib\\modbusclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7569FB3E-FA5C-4625-A0B9-AC3940A9F3FA}|ModbusLib\\ModbusLib.csproj|solutionrelative:modbuslib\\modbusclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7569FB3E-FA5C-4625-A0B9-AC3940A9F3FA}|ModbusLib\\ModbusLib.csproj|C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\ModbusMasterConsole\\modbuslib\\plcdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7569FB3E-FA5C-4625-A0B9-AC3940A9F3FA}|ModbusLib\\ModbusLib.csproj|solutionrelative:modbuslib\\plcdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273C68F5-5EE1-4FBB-ABA1-5D16F93F1F94}|ModbusMasterConsole\\ModbusMasterConsole.csproj|c:\\users\\\uAD50\uC218\\desktop\\backup\\g_20250210\\d.\uCD94\uAC00\uACB0\uACFC\uBB3C\\modbus_23\uBC88\\modbusmasterconsole\\modbusmasterconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273C68F5-5EE1-4FBB-ABA1-5D16F93F1F94}|ModbusMasterConsole\\ModbusMasterConsole.csproj|solutionrelative:modbusmasterconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273C68F5-5EE1-4FBB-ABA1-5D16F93F1F94}|ModbusMasterConsole\\ModbusMasterConsole.csproj|c:\\users\\\uAD50\uC218\\desktop\\backup\\g_20250210\\d.\uCD94\uAC00\uACB0\uACFC\uBB3C\\modbus_23\uBC88\\modbusmasterconsole\\modbusmasterconsole\\modbusmasterconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{273C68F5-5EE1-4FBB-ABA1-5D16F93F1F94}|ModbusMasterConsole\\ModbusMasterConsole.csproj|solutionrelative:modbusmasterconsole\\modbusmasterconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModbusMasterConsole.csproj",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\ModbusMasterConsole\\ModbusMasterConsole\\ModbusMasterConsole.csproj",
+              "RelativeDocumentMoniker": "ModbusMasterConsole\\ModbusMasterConsole.csproj",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\ModbusMasterConsole\\ModbusMasterConsole\\ModbusMasterConsole.csproj",
+              "RelativeToolTip": "ModbusMasterConsole\\ModbusMasterConsole.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-12T13:13:48.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\ModbusMasterConsole\\ModbusMasterConsole\\Program.cs",
+              "RelativeDocumentMoniker": "ModbusMasterConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\ModbusMasterConsole\\ModbusMasterConsole\\Program.cs",
+              "RelativeToolTip": "ModbusMasterConsole\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T07:00:04.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlcData.cs",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\ModbusMasterConsole\\ModbusLib\\PlcData.cs",
+              "RelativeDocumentMoniker": "ModbusLib\\PlcData.cs",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\ModbusMasterConsole\\ModbusLib\\PlcData.cs",
+              "RelativeToolTip": "ModbusLib\\PlcData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T13:14:54.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModbusClient.cs",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\ModbusMasterConsole\\ModbusLib\\ModbusClient.cs",
+              "RelativeDocumentMoniker": "ModbusLib\\ModbusClient.cs",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\D.\uCD94\uAC00\uACB0\uACFC\uBB3C\\Modbus_23\uBC88\\ModbusMasterConsole\\ModbusLib\\ModbusClient.cs",
+              "RelativeToolTip": "ModbusLib\\ModbusClient.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAxwBUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T13:13:15.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

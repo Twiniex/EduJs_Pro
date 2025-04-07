@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>PLC 모니터</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 20px;
+    }
+    h2 {
+      margin-bottom: 10px;
+    }
+    .tabs {
+      margin-bottom: 20px;
+    }
+    .tabs button {
+      padding: 10px 20px;
+      margin-right: 5px;
+      cursor: pointer;
+    }
+    .tab-content {
+      display: none;
+    }
+    .tab-content.active {
+      display: block;
+    }
+    table {
+      border-collapse: collapse;
+      margin-bottom: 30px;
+      width: 100%;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 6px 10px;
+      text-align: center;
+    }
+    th {
+      background-color: #f0f0f0;
+    }
+    tr:nth-child(even) {
+      background-color: #fafafa;
+    }
+  </style>
+</head>
+<body>
+  <h2>📟 PLC 실시간 데이터</h2>
+
+  <div class="tabs">
+    <button onclick="showTab('toPlc')">toPlc</button>
+    <button onclick="showTab('bToPlc')">bToPlc</button>
+    <button onclick="showTab('fromPlc')">fromPlc</button>
+    <button onclick="showTab('bFromPlc')">bFromPlc</button>
+  </div>
+
+  <div id="toPlc" class="tab-content active">
+    <h3>toPlc (D32500 ~ D32599)</h3>
+    <table>
+      <thead><tr><th>Address</th><th>Value</th></tr></thead>
+      <tbody id="toPlcBody"></tbody>
+    </table>
+  </div>
+
+  <div id="bToPlc" class="tab-content">
+    <h3>bToPlc (D32590.0 ~ D32599.F)</h3>
+    <table>
+      <thead><tr><th>Bit Address</th><th>Value</th></tr></thead>
+      <tbody id="bToPlcBody"></tbody>
+    </table>
+  </div>
+
+  <div id="fromPlc" class="tab-content">
+    <h3>fromPlc (D32600 ~ D32699)</h3>
+    <table>
+      <thead><tr><th>Address</th><th>Value</th></tr></thead>
+      <tbody id="fromPlcBody"></tbody>
+    </table>
+  </div>
+
+  <div id="bFromPlc" class="tab-content">
+    <h3>bFromPlc (D32690.0 ~ D32699.F)</h3>
+    <table>
+      <thead><tr><th>Bit Address</th><th>Value</th></tr></thead>
+      <tbody id="bFromPlcBody"></tbody>
+    </table>
+  </div>
+
+  <script>
+    function showTab(id) {
+      document.querySelectorAll('.tab-content').forEach(tab => tab.classList.remove('active'));
+      document.getElementById(id).classList.add('active');
+    }
+
+    const ws = new WebSocket("ws://localhost:8080");
+
+    ws.onmessage = (msg) => {
+      const data = JSON.parse(msg.data);
+
+      const updateTable = (id, list, baseAddr, bitMode = false) => {
+        const table = document.getElementById(id);
+        table.innerHTML = "";
+        for (let i = 0; i < list.length; i++) {
+          const row = document.createElement("tr");
+          let addr;
+          if (bitMode) {
+            const word = Math.floor(i / 16);
+            const bit = i % 16;
+            const bitLabel = bit.toString(16).toUpperCase();
+            addr = `D${baseAddr + word}.${bitLabel}`;
+          } else {
+            addr = `D${baseAddr + i}`;
+          }
+          row.innerHTML = `<td>${addr}</td><td>${list[i]}</td>`;
+          table.appendChild(row);
+        }
+      };
+
+      updateTable("toPlcBody", data.toPlc, 32500);
+      updateTable("bToPlcBody", data.bToPlc, 32590, true);
+      updateTable("fromPlcBody", data.fromPlc, 32600);
+      updateTable("bFromPlcBody", data.bFromPlc, 32690, true);
+    };
+  </script>
+</body>
+</html>

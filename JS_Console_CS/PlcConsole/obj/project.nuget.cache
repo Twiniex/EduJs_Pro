@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WfuyNFOM3AE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\교수\\Desktop\\backup\\G_20250210\\D.추가결과물\\Modbus_23번\\JS_Console_CS\\PlcConsole\\PlcConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\교수\\.nuget\\packages\\fleck\\1.2.0\\fleck.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
