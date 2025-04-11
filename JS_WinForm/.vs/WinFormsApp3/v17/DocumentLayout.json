@@ -1,37 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Proj\\JS\\JS_WinForm\\",
+  "WorkspaceRootPath": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\vs\\twiniex\\JS_WinForm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|c:\\proj\\js\\js_winform\\winformsapp3\\modbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\modbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\\uAD50\uC218\\desktop\\backup\\g_20250210\\vs\\twiniex\\js_winform\\winformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|c:\\proj\\js\\js_winform\\winformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\\uAD50\uC218\\desktop\\backup\\g_20250210\\vs\\twiniex\\js_winform\\winformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|c:\\proj\\js\\js_winform\\winformsapp3\\plccomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\plccomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|c:\\proj\\js\\js_winform\\winformsapp3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\\uAD50\uC218\\desktop\\backup\\g_20250210\\vs\\twiniex\\js_winform\\winformsapp3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|c:\\proj\\js\\js_winform\\winformsapp3\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\\uAD50\uC218\\desktop\\backup\\g_20250210\\vs\\twiniex\\js_winform\\winformsapp3\\modbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\modbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\\uAD50\uC218\\desktop\\backup\\g_20250210\\vs\\twiniex\\js_winform\\winformsapp3\\plccomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\plccomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\\uAD50\uC218\\desktop\\backup\\g_20250210\\vs\\twiniex\\js_winform\\winformsapp3\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|c:\\proj\\js\\js_winform\\winformsapp3\\winformsapp3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\\uAD50\uC218\\desktop\\backup\\g_20250210\\vs\\twiniex\\js_winform\\winformsapp3\\winformsapp3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\winformsapp3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|c:\\proj\\js\\js_winform\\winformsapp3\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\\uAD50\uC218\\desktop\\backup\\g_20250210\\vs\\twiniex\\js_winform\\winformsapp3\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|c:\\proj\\js\\js_winform\\winformsapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\\uAD50\uC218\\desktop\\backup\\g_20250210\\vs\\twiniex\\js_winform\\winformsapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{418BC47B-14C2-49D3-A565-651BE0BFBD03}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,15 +46,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\vs\\twiniex\\JS_WinForm\\WinFormsApp3\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Form1.cs",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\vs\\twiniex\\JS_WinForm\\WinFormsApp3\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "WinFormsApp3\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T07:29:36.448Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Logger.cs",
-              "DocumentMoniker": "C:\\Proj\\JS\\JS_WinForm\\WinFormsApp3\\Logger.cs",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\vs\\twiniex\\JS_WinForm\\WinFormsApp3\\Logger.cs",
               "RelativeDocumentMoniker": "WinFormsApp3\\Logger.cs",
-              "ToolTip": "C:\\Proj\\JS\\JS_WinForm\\WinFormsApp3\\Logger.cs",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\vs\\twiniex\\JS_WinForm\\WinFormsApp3\\Logger.cs",
               "RelativeToolTip": "WinFormsApp3\\Logger.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAIwAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -58,22 +74,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "WinFormsApp3",
-              "DocumentMoniker": "C:\\Proj\\JS\\JS_WinForm\\WinFormsApp3\\WinFormsApp3.csproj",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\vs\\twiniex\\JS_WinForm\\WinFormsApp3\\WinFormsApp3.csproj",
               "RelativeDocumentMoniker": "WinFormsApp3\\WinFormsApp3.csproj",
-              "ToolTip": "C:\\Proj\\JS\\JS_WinForm\\WinFormsApp3\\WinFormsApp3.csproj",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\vs\\twiniex\\JS_WinForm\\WinFormsApp3\\WinFormsApp3.csproj",
               "RelativeToolTip": "WinFormsApp3\\WinFormsApp3.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-03-05T03:26:15.675Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Data.cs",
-              "DocumentMoniker": "C:\\Proj\\JS\\JS_WinForm\\WinFormsApp3\\Data.cs",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\vs\\twiniex\\JS_WinForm\\WinFormsApp3\\Data.cs",
               "RelativeDocumentMoniker": "WinFormsApp3\\Data.cs",
-              "ToolTip": "C:\\Proj\\JS\\JS_WinForm\\WinFormsApp3\\Data.cs",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\vs\\twiniex\\JS_WinForm\\WinFormsApp3\\Data.cs",
               "RelativeToolTip": "WinFormsApp3\\Data.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAxwBAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -81,11 +97,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PlcComm.cs",
-              "DocumentMoniker": "C:\\Proj\\JS\\JS_WinForm\\WinFormsApp3\\PlcComm.cs",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\vs\\twiniex\\JS_WinForm\\WinFormsApp3\\PlcComm.cs",
               "RelativeDocumentMoniker": "WinFormsApp3\\PlcComm.cs",
-              "ToolTip": "C:\\Proj\\JS\\JS_WinForm\\WinFormsApp3\\PlcComm.cs",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\vs\\twiniex\\JS_WinForm\\WinFormsApp3\\PlcComm.cs",
               "RelativeToolTip": "WinFormsApp3\\PlcComm.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAIwDoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -93,49 +109,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Proj\\JS\\JS_WinForm\\WinFormsApp3\\Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\vs\\twiniex\\JS_WinForm\\WinFormsApp3\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "WinFormsApp3\\Form1.Designer.cs",
-              "ToolTip": "C:\\Proj\\JS\\JS_WinForm\\WinFormsApp3\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\vs\\twiniex\\JS_WinForm\\WinFormsApp3\\Form1.Designer.cs",
               "RelativeToolTip": "WinFormsApp3\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T02:05:07.09Z"
+              "WhenOpened": "2025-03-05T02:05:07.09Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Proj\\JS\\JS_WinForm\\WinFormsApp3\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\vs\\twiniex\\JS_WinForm\\WinFormsApp3\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp3\\Form1.cs",
-              "ToolTip": "C:\\Proj\\JS\\JS_WinForm\\WinFormsApp3\\Form1.cs",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\vs\\twiniex\\JS_WinForm\\WinFormsApp3\\Form1.cs",
               "RelativeToolTip": "WinFormsApp3\\Form1.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAEwD4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAEwD4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T02:04:23.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Modbus.cs",
-              "DocumentMoniker": "C:\\Proj\\JS\\JS_WinForm\\WinFormsApp3\\Modbus.cs",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\vs\\twiniex\\JS_WinForm\\WinFormsApp3\\Modbus.cs",
               "RelativeDocumentMoniker": "WinFormsApp3\\Modbus.cs",
-              "ToolTip": "C:\\Proj\\JS\\JS_WinForm\\WinFormsApp3\\Modbus.cs",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\vs\\twiniex\\JS_WinForm\\WinFormsApp3\\Modbus.cs",
               "RelativeToolTip": "WinFormsApp3\\Modbus.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAQwFQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwEUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T07:17:19.446Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Proj\\JS\\JS_WinForm\\WinFormsApp3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\vs\\twiniex\\JS_WinForm\\WinFormsApp3\\Program.cs",
               "RelativeDocumentMoniker": "WinFormsApp3\\Program.cs",
-              "ToolTip": "C:\\Proj\\JS\\JS_WinForm\\WinFormsApp3\\Program.cs",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Desktop\\backup\\G_20250210\\vs\\twiniex\\JS_WinForm\\WinFormsApp3\\Program.cs",
               "RelativeToolTip": "WinFormsApp3\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proj\\JS\\JS_WinForm\\WinFormsApp3\\WinFormsApp3.csproj": {}
+    "C:\\Users\\교수\\Desktop\\backup\\G_20250210\\vs\\twiniex\\JS_WinForm\\WinFormsApp3\\WinFormsApp3.csproj": {}
   },
   "projects": {
-    "C:\\Proj\\JS\\JS_WinForm\\WinFormsApp3\\WinFormsApp3.csproj": {
+    "C:\\Users\\교수\\Desktop\\backup\\G_20250210\\vs\\twiniex\\JS_WinForm\\WinFormsApp3\\WinFormsApp3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proj\\JS\\JS_WinForm\\WinFormsApp3\\WinFormsApp3.csproj",
+        "projectUniqueName": "C:\\Users\\교수\\Desktop\\backup\\G_20250210\\vs\\twiniex\\JS_WinForm\\WinFormsApp3\\WinFormsApp3.csproj",
         "projectName": "WinFormsApp3",
-        "projectPath": "C:\\Proj\\JS\\JS_WinForm\\WinFormsApp3\\WinFormsApp3.csproj",
+        "projectPath": "C:\\Users\\교수\\Desktop\\backup\\G_20250210\\vs\\twiniex\\JS_WinForm\\WinFormsApp3\\WinFormsApp3.csproj",
         "packagesPath": "C:\\Users\\교수\\.nuget\\packages\\",
-        "outputPath": "C:\\Proj\\JS\\JS_WinForm\\WinFormsApp3\\obj\\",
+        "outputPath": "C:\\Users\\교수\\Desktop\\backup\\G_20250210\\vs\\twiniex\\JS_WinForm\\WinFormsApp3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

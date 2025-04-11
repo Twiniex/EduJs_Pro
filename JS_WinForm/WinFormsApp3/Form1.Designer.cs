@@ -91,7 +91,7 @@
             tabPage1.Padding = new Padding(3);
             tabPage1.Size = new Size(389, 508);
             tabPage1.TabIndex = 0;
-            tabPage1.Text = "D0000";
+            tabPage1.Text = "D32500";
             tabPage1.UseVisualStyleBackColor = true;
             // 
             // dataGridView1
@@ -111,7 +111,7 @@
             tabPage2.Padding = new Padding(3);
             tabPage2.Size = new Size(389, 508);
             tabPage2.TabIndex = 1;
-            tabPage2.Text = "D0100";
+            tabPage2.Text = "D32600";
             tabPage2.UseVisualStyleBackColor = true;
             // 
             // dataGridView2
